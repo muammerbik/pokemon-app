@@ -1,16 +1,12 @@
-# pokemon_app
+# Pokemon App
 
-A new Flutter project.
+"This Flutter app pulls data from the PokeAPI, allowing users to sort and discover Pokémon. Using the popular Pokémon database, PokeAPI, the app provides users with options to view and sort Pokémon with their detailed information."
 
-## Getting Started
+## Topics
+- Dart
+- Flutter
+- dio
+- google_fonts
+- flutter_screenutil
+- cached_network_image
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
